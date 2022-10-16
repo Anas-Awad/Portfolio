@@ -18,7 +18,7 @@
   "filters": ["web screping", "web m4 screping", "data analysis"],
   "projects": [
     {
-      "name": "proj 1",
+      "name": "Real Estate Analysis",
       "description": "this project is gamed awy",
       "button2": "a7a",
       "url": "https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript",
