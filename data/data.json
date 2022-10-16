@@ -15,7 +15,7 @@
     "certifications": "first_bg.jpg",
     "contact": "first_bg.jpg"
   },
-  "filters": ["data analysis", "web scraping"],
+  "filters": ["data analysis"],
   "projects": [
     {
       "name": "Real Estate Analysis",
@@ -25,34 +25,8 @@
       "url2": "https://www.youtube.com/playlist?list=PLCGweKdBhoY7OFmsktIFx9m-ZW0VRrGnp",
       "image": "1.jpg",
       "filter": "data analysis"
-    },
-    {
-      "name": "proj 2",
-      "description": "this project is gamed awy 2",
-      "url": "https://www.google.com/",
-      "button2": "",
-      "url2": "",
-      "image": "first_big_item.jpg",
-      "filter": "web m4 screping"
-    },
-    {
-      "name": "bike analysis",
-      "description": "this project is about biking",
-      "button2": "",
-      "url": "https://www.facebook.com/",
-      "url2": "dsd",
-      "image": "p1.jpg",
-      "filter": "data analysis"
-    },
-    {
-      "name": "bike analysis",
-      "description": "this project is about biking",
-      "button2": "",
-      "url": "https://www.facebook.com/",
-      "url2": "dsd",
-      "image": "p1.jpg",
-      "filter": "Data Analysis"
     }
+    
   ],
   "certifications": [
     {
