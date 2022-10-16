@@ -15,16 +15,16 @@
     "certifications": "first_bg.jpg",
     "contact": "first_bg.jpg"
   },
-  "filters": ["web screping", "web m4 screping", "data analysis"],
+  "filters": ["data analysis", "web scraping", ],
   "projects": [
     {
       "name": "Real Estate Analysis",
       "description": "this project is gamed awy",
       "button2": "Description",
-      "url": "https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript",
-      "url2": "https://fontawesome.com/icons/code?s=solid",
+      "url": "https://github.com/Anas-Awad/Real_Estate_Data_Analysis",
+      "url2": "https://www.youtube.com/playlist?list=PLCGweKdBhoY7OFmsktIFx9m-ZW0VRrGnp",
       "image": "c.jpg",
-      "filter": "web screping"
+      "filter": "data analysis"
     },
     {
       "name": "proj 2",
