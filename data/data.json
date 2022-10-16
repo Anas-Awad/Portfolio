@@ -15,7 +15,7 @@
     "certifications": "first_bg.jpg",
     "contact": "first_bg.jpg"
   },
-  "filters": ["data analysis", "web scraping", ],
+  "filters": ["data analysis", "web scraping"],
   "projects": [
     {
       "name": "Real Estate Analysis",
