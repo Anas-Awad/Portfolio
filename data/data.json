@@ -30,15 +30,21 @@
   ],
   "certifications": [
     {
+      "name": "SQL Basic Certificate",
+      "description": "Hacker Rank",
+      "url": "https://www.hackerrank.com/certificates/035bf214f264",
+      "image": "hr.png"
+    },
+    {
       "name": "Completion Certificate for Supervised Machine Learning: Regression and Classification",
       "description": "Stanford Online",
       "url": "https://coursera.org/share/35186941be4afb2dec8dc1cacff951b3",
       "image": "download.png"
     },
     {
-      "name": "SQL Basic Certificate",
+      "name": "python Basic Certificate",
       "description": "Hacker Rank",
-      "url": "https://www.hackerrank.com/certificates/035bf214f264",
+      "url": "https://www.hackerrank.com/certificates/c67c0848c4c7",
       "image": "hr.png"
     },
     {
@@ -46,12 +52,6 @@
       "description": "DataCamp",
       "url": "https://www.datacamp.com/statement-of-accomplishment/course/644d74bb5377dcd7af2f285b8dffe53ece098f5b",
       "image": "datacamp-review.jpg"
-    },
-    {
-      "name": "python Basic Certificate",
-      "description": "Hacker Rank",
-      "url": "https://www.hackerrank.com/certificates/c67c0848c4c7",
-      "image": "hr.png"
     },
     {
       "name": "Problem solving Basic Certificate",
