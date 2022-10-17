@@ -34,6 +34,12 @@
       "description": "Stanford Online",
       "url": "https://coursera.org/share/35186941be4afb2dec8dc1cacff951b3",
       "image": "download.png"
+    },
+    {
+      "name": "Introduction to Power BI",
+      "description": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/644d74bb5377dcd7af2f285b8dffe53ece098f5b",
+      "image": "datacamp-review.jpg"
     }
   ]
 }
