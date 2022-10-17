@@ -36,16 +36,16 @@
       "image": "download.png"
     },
     {
-      "name": "Introduction to Power BI",
-      "description": "DataCamp",
-      "url": "https://www.datacamp.com/statement-of-accomplishment/course/644d74bb5377dcd7af2f285b8dffe53ece098f5b",
-      "image": "datacamp-review.jpg"
-    },
-    {
       "name": "SQL Basic Certificate",
       "description": "Hacker Rank",
       "url": "https://www.hackerrank.com/certificates/035bf214f264",
       "image": "hr.png"
+    },
+    {
+      "name": "Introduction to Power BI",
+      "description": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/644d74bb5377dcd7af2f285b8dffe53ece098f5b",
+      "image": "datacamp-review.jpg"
     },
     {
       "name": "python Basic Certificate",
