@@ -30,22 +30,10 @@
   ],
   "certifications": [
     {
-      "name": "cert 1",
-      "description": "this project is gamed awy",
-      "url": "https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript",
-      "image": "first_big_item.jpg"
-    },
-    {
-      "name": "proj 1",
-      "description": "this project is gamed awy",
-      "url": "https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript",
-      "image": "first_big_item.jpg"
-    },
-    {
-      "name": "proj 1",
-      "description": "this project is gamed awy",
-      "url": "https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript",
-      "image": "first_big_item.jpg"
+      "name": "Completion Certificate for Supervised Machine Learning: Regression and Classification",
+      "description": "Stanford Online",
+      "url": "https://coursera.org/share/35186941be4afb2dec8dc1cacff951b3",
+      "image": "download.png"
     }
   ]
 }
