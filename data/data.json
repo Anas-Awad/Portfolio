@@ -11,9 +11,9 @@
   },
   "background_images": {
     "about": "55.png",
-    "projects": "p2.jpg",
-    "certifications": "first_bg.jpg",
-    "contact": "first_bg.jpg"
+    "projects": "55.png",
+    "certifications": "55.pngg",
+    "contact": "55.png"
   },
   "filters": ["data analysis"],
   "projects": [
