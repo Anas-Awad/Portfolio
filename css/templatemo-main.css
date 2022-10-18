@@ -565,6 +565,13 @@ nav a:hover::before {
   overflow: hidden;
   height: 220px;
 }
+@media (max-width:1256px){
+  .fourth-content .item  {
+    max-width: 100%;
+    margin:0;
+    hright:230px
+  }
+}
 @media (max-width:767px){
   .fourth-content .item  {
   max-width: 67%;
