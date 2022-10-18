@@ -563,6 +563,10 @@ nav a:hover::before {
   .fourth-content .item img {
   max-width: 67%;
   }
+  .content{
+    width:80% !important;
+    left:20% !important;
+  }
 }
 
 @media (max-width:540px){
