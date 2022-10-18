@@ -745,7 +745,7 @@ nav a:hover::before {
 /* REPONSIVE */
 
 .item{
-  margin: 0 auto !important; 
+  margin: 10px auto !important; 
 }
 
 @media (max-width: 991px) {
