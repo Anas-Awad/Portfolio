@@ -565,6 +565,9 @@ nav a:hover::before {
   overflow: hidden;
   height: 220px;
 }
+.first-content p{
+  font-size:18px;
+}
 @media (max-width:1256px){
   .fourth-content .item  {
     max-width: 100%;
@@ -576,6 +579,9 @@ nav a:hover::before {
   .fourth-content .item  {
   max-width: 67%;
   }
+  .first-content p{
+  font-size:13px;
+}
   .content{
     width:80% !important;
     left:20% !important;
@@ -747,6 +753,8 @@ nav a:hover::before {
 .item{
   margin: 10px auto !important; 
 }
+
+
 
 @media (max-width: 991px) {
   nav ul {
