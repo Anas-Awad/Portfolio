@@ -36,6 +36,15 @@
       "filter": "data analysis"
     },
     {
+      "name": "Loan Acceptance",
+      "description": "analyzing the data set and then use ml model to see wether the loan will be accepted or not according to its feature",
+      "button2": "",
+      "url": "https://github.com/Anas-Awad/Loan_acceptance",
+      "url2": "",
+      "image": "loan.jpeg",
+      "filter": "data science"
+    },
+    {
       "name": "BIKES RENTING STORE",
       "description": "Analyzing the Bikes Renting Store Dataset And Getting some insights by Answering questions.",
       "button2": "",
