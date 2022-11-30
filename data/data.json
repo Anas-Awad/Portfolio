@@ -17,7 +17,7 @@
   },
   "filters": ["data analysis", "data science", "web scraping & web services"],
   "projects": [
-        {
+    {
       "name": "Isp Customer Churn Prediction",
       "description": "Analysing internet service customers data and predictiong which user will churn.                           youtube videos: https://www.youtube.com/playlist?list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ",
       "button2": "Application",
@@ -38,28 +38,36 @@
     {
       "name": "BIKES RENTING STORE",
       "description": "Analyzing the Bikes Renting Store Dataset And Getting some insights by Answering questions.",
+      "button2": "",
       "url": "https://github.com/Anas-Awad/Bikes_business_Analysis",
+      "url2":"",
       "image": "bike.jpeg",
       "filter": "data analysis"
     },
     {
       "name": "NETFLIX DATA ANALYSIS",
       "description": "Analyzing the netflex movies and tv shows Dataset And Getting some insights by Answering questions.",
+      "button2": "",
       "url": "https://github.com/Anas-Awad/Netflix_Data_Analysis",
+      "url2":"",
       "image": "netflex.jpg",
       "filter": "data analysis"
     },
      {
       "name": "WEATHER DATA ANALYSIS",
-      "description": "Analyzing the weather Dataset And Getting some insights by Answering questions.",
+      "description": "Analyzing The Weather Dataset And Getting some insights by Answering questions.",
+       "button2": "",
       "url": "https://github.com/Anas-Awad/Weather_Data_Analysis",
+       "url2":"",
       "image": "weather.jpg",
       "filter": "data analysis"
     },
      {
       "name": "Books store Data Scraping",
       "description": "Scraping the Data from bookstore into SQLLITE DataBase then retreiving data from it using python packages (Beatuiful Soap,SQLITE3)",
+       "button2": "",
       "url": "https://github.com/Anas-Awad/book-scraping-into-Data-Base",
+       "url2":"",
       "image": "scraping.jpg",
       "filter": "web scraping & web services"
        
@@ -67,10 +75,12 @@
     {
       "name": "Weather_Stats_Scraping",
       "description": "scraping weather stats data in cairo location ten times one minute for each time",
+      "button2": "",
       "url": "https://github.com/Anas-Awad/Weather_Stats_Scraping",
+      "url2":"",
       "image": "scraping.jpg",
       "filter": "web scraping & web services"
-    },
+    }
     
   ],
   "certifications": [
