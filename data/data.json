@@ -15,7 +15,7 @@
     "certifications": "55.png",
     "contact": "55.png"
   },
-  "filters": ["data analysis", "data science"],
+  "filters": ["data analysis", "data science", "web scraping & web services"],
   "projects": [
         {
       "name": "Isp Customer Churn Prediction",
@@ -34,7 +34,43 @@
       "url2": "https://www.youtube.com/playlist?list=PLCGweKdBhoY7OFmsktIFx9m-ZW0VRrGnp",
       "image": "1.jpg",
       "filter": "data analysis"
-    }
+    },
+    {
+      "name": "BIKES RENTING STORE",
+      "description": "Analyzing the Bikes Renting Store Dataset And Getting some insights by Answering questions.",
+      "url": "https://github.com/Anas-Awad/Bikes_business_Analysis",
+      "image": "bike.jpeg",
+      "filter": "data analysis"
+    },
+    {
+      "name": "NETFLIX DATA ANALYSIS",
+      "description": "Analyzing the netflex movies and tv shows Dataset And Getting some insights by Answering questions.",
+      "url": "https://github.com/Anas-Awad/Netflix_Data_Analysis",
+      "image": "netflex.jpg",
+      "filter": "data analysis"
+    },
+     {
+      "name": "WEATHER DATA ANALYSIS",
+      "description": "Analyzing the weather Dataset And Getting some insights by Answering questions.",
+      "url": "https://github.com/Anas-Awad/Weather_Data_Analysis",
+      "image": "weather.jpg",
+      "filter": "data analysis"
+    },
+     {
+      "name": "Books store Data Scraping",
+      "description": "Scraping the Data from bookstore into SQLLITE DataBase then retreiving data from it using python packages (Beatuiful Soap,SQLITE3)",
+      "url": "https://github.com/Anas-Awad/book-scraping-into-Data-Base",
+      "image": "scraping.jpg",
+      "filter": "web scraping & web services"
+       
+    },
+    {
+      "name": "Weather_Stats_Scraping",
+      "description": "scraping weather stats data in cairo location ten times one minute for each time",
+      "url": "https://github.com/Anas-Awad/Weather_Stats_Scraping",
+      "image": "scraping.jpg",
+      "filter": "web scraping & web services"
+    },
     
   ],
   "certifications": [
