@@ -19,7 +19,7 @@
   "projects": [
         {
       "name": "Isp Customer Churn Prediction",
-      "description": "Analysing internet service customers data and predictiong which user will churn.\n youtube videos: https://www.youtube.com/playlist?list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ",
+      "description": "Analysing internet service customers data and predictiong which user will churn.                           youtube videos: https://www.youtube.com/playlist?list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ",
       "button2": "Application",
       "url": "https://github.com/Anas-Awad/isp_churn_prediction",
       "url2": " https://anas-awad.github.io/isp_churn_prediction/",
