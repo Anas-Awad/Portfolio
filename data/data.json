@@ -15,8 +15,17 @@
     "certifications": "55.png",
     "contact": "55.png"
   },
-  "filters": ["data analysis"],
+  "filters": ["data analysis", "data science"],
   "projects": [
+        {
+      "name": "Isp Customer Churn PRediction",
+      "description": "Analysing internet service customers data and predictiong which user will churn. youtube videos: https://www.youtube.com/playlist?list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ",
+      "button2": "App link",
+      "url": "https://anas-awad.github.io/isp_churn_prediction/",
+      "url2": " https://anas-awad.github.io/isp_churn_prediction/",
+      "image": "churn.jpg",
+      "filter": "data science"
+    },
     {
       "name": "Real Estate Analysis",
       "description": "Analyzing Russian's Real Estate Data Set And Prepare it for machine learning model.",
