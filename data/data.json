@@ -18,11 +18,20 @@
   "filters": ["data analysis", "data science", "web scraping & web services"],
   "projects": [
     {
+      "name": "Inflight Satisfaction Prediction",
+      "description": "Predicting whether the passenger will be satisfied on the inflights services or not according to some rates he made and some details about the flight and the passenger him self",
+      "button2": "Application",
+      "url": "https://github.com/Anas-Awad/passenger_satisfaction_prediction",
+      "url2": " https://anas-awad.github.io/passenger_satisfaction_prediction/",
+      "image": "sad.jpg",
+      "filter": "data science"
+    },
+    {
       "name": "Isp Customer Churn Prediction",
       "description": "Analysing internet service customers data and predictiong which user will churn, youtube videos: https://www.youtube.com/playlist?list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ",
       "button2": "Application",
       "url": "https://github.com/Anas-Awad/isp_churn_prediction",
-      "url2": " https://anas-awad.github.io/isp_churn_prediction/",
+      "url2": "https://anas-awad.github.io/isp_churn_prediction/",
       "image": "churn.jpg",
       "filter": "data science"
     },
@@ -94,10 +103,10 @@
   ],
   "certifications": [
     {
-      "name": "SQL Basic Certificate",
-      "description": "Hacker Rank",
-      "url": "https://www.hackerrank.com/certificates/035bf214f264",
-      "image": "HackerRank2.png"
+      "name": "Certified Data Science Professional (CDSP)",
+      "description": "Epsilon AI Institute",
+      "url": "https://epsilonaii.org/wp-content/uploads/2023/01/100811-23-EG-Anas-Awad-Mohamed.pdf",
+      "image": "epsilon.png"
     },
     {
       "name": "Completion Certificate for Supervised Machine Learning: Regression and Classification",
@@ -106,17 +115,25 @@
       "image": "download.png"
     },
     {
-      "name": "python Basic Certificate",
-      "description": "Hacker Rank",
-      "url": "https://www.hackerrank.com/certificates/c67c0848c4c7",
-      "image": "HackerRank2.png"
-    },
-    {
       "name": "Introduction to Power BI",
       "description": "DataCamp",
       "url": "https://www.datacamp.com/statement-of-accomplishment/course/644d74bb5377dcd7af2f285b8dffe53ece098f5b",
       "image": "datacamp-review.jpg"
     },
+    {
+      "name": "SQL Basic Certificate",
+      "description": "Hacker Rank",
+      "url": "https://www.hackerrank.com/certificates/035bf214f264",
+      "image": "HackerRank2.png"
+    },
+  
+    {
+      "name": "python Basic Certificate",
+      "description": "Hacker Rank",
+      "url": "https://www.hackerrank.com/certificates/c67c0848c4c7",
+      "image": "HackerRank2.png"
+    },
+    
     {
       "name": "Problem solving Basic Certificate",
       "description": "Hacker Rank",
